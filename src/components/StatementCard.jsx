@@ -3,11 +3,11 @@ import React from "react";
 const StatementCard = () => {
     const statements = [
         {
-            title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            title: "Satisfied client! Excellent food and service.... :)",
             content:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas cursus pretium purus eget viverra.",
-            name: "Dr. Tirso S. Ronquillo",
-            position: "CEO & President of Batangas State University",
+                "I was very pleased with the catering services from Calinao for my birthday last month. Satisfied client! Excellent food and service.... :) The food was absolutely delicious, and all of my guests were raving about it. The chicken italiano and sweet and sour fish were big hits.",
+            name: "Allyza Valdez-Panopio",
+            position: "Customer",
         },
         {
             title: "Fusce efficitur mauris vitae augue vestibulum, vitae luctus ex bibendum.",
