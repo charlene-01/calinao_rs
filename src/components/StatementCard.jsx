@@ -10,72 +10,70 @@ const StatementCard = () => {
             position: "Customer",
         },
         {
-            title: "Fusce efficitur mauris vitae augue vestibulum, vitae luctus ex bibendum.",
+            title: "Our guest super loved it!! ",
             content:
-                "Fusce efficitur mauris vitae augue vestibulum, vitae luctus ex bibendum. Sed consequat euismod nisl, eget iaculis nulla tincidunt a.",
-            name: "Prof. Elena M. Santiago",
-            position: "Dean of Faculty of Arts and Letters, UST",
+                "Thank you, Calinao’s Catering Catering, for elegantly dressing up our place for our Post Wedding Celebration! Our guest super loved it!! Not to mention the suuppeerrrr yummy dish!",
+            name: "Donna Lou",
+            position: "Customer",
         },
         {
-            title: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            title: "An occasion truly worth remembering.",
             content:
-                "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non urna vulputate, tempor lacus nec, commodo orci.",
-            name: "Dr. Javier R. Torres",
+                "Our sincerest gratitude to Calinao’s Catering Services for making our Inay’s 60th birthday celebrate an occasion truly worth remembering. Thank you Pareng Romeo Calinao and Mareng Ailleen Calinao.",
+            name: "Lanievi DP",
             position:
-                "Chairman of Department of Computer Science, Ateneo de Manila University",
+                "Customer",
         },
         {
-            title: "Vestibulum nec nisl et erat fermentum euismod.",
+            title: "Lovely food and great service!",
             content:
-                "Vestibulum nec nisl et erat fermentum euismod. Duis pellentesque tellus vitae eros ullamcorper, vel ullamcorper augue rhoncus.",
-            name: "Prof. Isabella L. Fernandez",
+                "Appreciation to Calinao’s Catering for a job well done on my daughters bday part last October, The owner Sir Romeo Caliao was outstandingly helpful in making the event a success, with the beautiful elegant decoration, lovely food and great service, it’s highly recommended!",
+            name: "Regie Landicho Bullagay",
             position:
-                "Director of Culinary Arts, De La Salle - College of Saint Benilde",
+                "Customer",
         },
         {
-            title: "Suspendisse potenti. Etiam a orci vel risus facilisis gravida.",
+            title: "Masarap ang foods and affordable.",
             content:
-                "Suspendisse potenti. Etiam a orci vel risus facilisis gravida. Fusce lobortis mauris vitae ipsum tristique varius.",
-            name: "Dr. Juanito B. Estrella",
-            position: "Director of School of Business, Far Eastern University",
+                "Thank you po sa Magandang catering service last 60th bday celebration ng mom ko. Till now po madaming feedback sa mga taga dito na ang ganda ng catering nyo – maganda yung ayos, masarap ang foods and affordable. Thank you and keep it up! Godbless po. Sa uulitin!",
+            name: "Stephanie Mariz",
+            position: "Customer",
         },
         {
-            title: "Aliquam vehicula justo non fermentum dictum.",
+            title: "Mauulit po na magpacater kami sa inyo.",
             content:
-                "Aliquam vehicula justo non fermentum dictum. Aenean ullamcorper libero ac sapien sollicitudin, non bibendum est venenatis.",
-            name: "Prof. Maria G. Santos",
+                "Hi! I’m so thankful po sa Magandang service nyo. Ang ganda ng set up at masarap ang food. Tinatanong nga po ng mga bisita kung saan kami nag pa-cater. Most probably kukunin din nila kayo kapag nangailangan sila ng cater. Maraming maraming salamat po. Mauulit po na magpacater kami sa inyo.",
+            name: "Private Customer",
+        },
+        {
+            title: "Elegant decorations and impressive service",
+            content:
+                "Thank you very much Calinao’s Catering for an excellent service during my Mother’s 80th Birthday celebration. It’s fantastic to work with Calinao’s Catering, you are truly the best. I would certainly want to work with you again and would absolutely recommend to others. ",
+            name: "Ruel Magracia",
+            position: "Customer",
+        },
+        {
+            title: "Would like to commend them for brilliant set up.",
+            content:
+                "Kahit may konting glitches na nangyari before preparing the resort, still they we’re able to cope up. The food itself is marasap, yung service ng mga staff, super supportive and above all super approachable ng mag asawang Romeo Calinao. Thanks for making our son’s event successful!",
+            name: "Yam Cuento",
             position:
-                "Head of Department of Fine Arts, University of the Philippines Diliman",
+                "Customer",
         },
         {
-            title: "Praesent nec augue a elit pharetra vulputate.",
+            title: "Fully satisfied po kami.",
             content:
-                "Praesent nec augue a elit pharetra vulputate. Sed scelerisque metus at ex dapibus, in efficitur quam scelerisque.",
-            name: "Dr. Carlos P. Martinez",
-            position: "Dean of College of Engineering, Mapúa University",
-        },
-        {
-            title: "Nullam fringilla orci vitae quam efficitur rhoncus.",
-            content:
-                "Nullam fringilla orci vitae quam efficitur rhoncus. Sed non elit ut purus lacinia volutpat at ut ex.",
-            name: "Prof. Andrea J. Reyes",
+                "Thank you po ng madam isa magandang arranement at display sa 30th anniversary ng aming parents. Fully satisfied po kami sa service po. Sa next event po ulit!",
+            name: "Karen Andal Doce",
             position:
-                "Chairperson of Department of Psychology, University of Santo Tomas",
+                "Customer",
         },
         {
-            title: "Vivamus ut dui non quam luctus rhoncus ac in metus.",
+            title: "No regret po for choosing you.",
             content:
-                "Vivamus ut dui non quam luctus rhoncus ac in metus. Phasellus efficitur arcu ut posuere ultricies.",
-            name: "Dr. Martin D. Abad",
-            position:
-                "Vice President for Academic Affairs, Polytechnic University of the Philippines",
-        },
-        {
-            title: "Morbi efficitur libero ac nibh convallis, a condimentum lacus aliquet.",
-            content:
-                "Morbi efficitur libero ac nibh convallis, a condimentum lacus aliquet. Integer malesuada odio at ipsum fringilla, nec auctor felis pharetra.",
-            name: "Prof. Laura S. Garcia",
-            position: "Director of Institute of Nursing, Adamson University",
+                "Salamat po Ma’am Aileen and to the whole staff od Calinao’s Catering. I am beyond satisfied with your service and foods. No regret po for choosing you. Thank you for making our occasion extra special.",
+            name: "Chirstine Ayeen Perez",
+            position: "Customer",
         },
     ];
 

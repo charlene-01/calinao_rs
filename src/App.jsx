@@ -10,25 +10,22 @@ import Reservations from "./pages/Reservations";
 import Quotation from "./pages/Quotation";
 
 function App() {
-    return (
-        <BrowserRouter>
-            <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/client/reservation" element={<Reservation />} />
-                <Route path="/login" element={<Login />} />
-                <Route path="/signup" element={<Register />} />
-                <Route path="/dashboard" element={<Dashboard />} />
-                <Route path="/clients" element={<Clients />} />
-                <Route path="/menu" element={<Menu />} />
-                <Route path="/reservation" element={<Reservation />} />
-                <Route path="/reservations" element={<Reservations />} />
-                <Route
-                    path="/quotation/:reservation_id"
-                    element={<Quotation />}
-                />
-            </Routes>
-        </BrowserRouter>
-    );
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/client/reservation" element={<Reservation />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Register />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/clients" element={<Clients />} />
+        <Route path="/menu" element={<Menu />} />
+        <Route path="/reservation" element={<Reservation />} />
+        <Route path="/reservations" element={<Reservations />} />
+        <Route path="/quotation/:reservation_id" element={<Quotation />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
 export default App;
